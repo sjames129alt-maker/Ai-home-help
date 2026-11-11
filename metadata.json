@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Quest: Hardest to Easiest",
+  "description": "Gamified study planner that uses AI to analyze and rank Google Classroom assignments from hardest to easiest with a visual deadline calendar and quest battle rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
